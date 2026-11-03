@@ -91,14 +91,13 @@ Screenshots: `Dashboard1.png` to `Dashboard4.png`.
 
 
 ##Outputs
+
+
 <img width="575" height="325" alt="image" src="https://github.com/user-attachments/assets/2ef242da-8c7f-40e1-b7a6-d3d4a74c3bdd" />
 <img width="589" height="337" alt="image" src="https://github.com/user-attachments/assets/a60bcbea-dca8-42d2-9b12-1ac24b164df0" />
 <img width="581" height="329" alt="image" src="https://github.com/user-attachments/assets/441921fe-e449-4d07-a983-cbdfeb3ad6fb" />
 <img width="590" height="337" alt="image" src="https://github.com/user-attachments/assets/02db6e87-4f51-4706-86a0-a5e7b0751337" />
 <img width="589" height="338" alt="image" src="https://github.com/user-attachments/assets/19741547-90c5-463f-a506-862a68bbe5dd" />
-
-
-
 
 
 
